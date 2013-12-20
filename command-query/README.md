@@ -16,7 +16,7 @@ These exercises focus on these two types of operations.
 
 ## Exercises
 
-- `leather_chair_test.rb`
+- `leather_chair_test.rb`   
 - `pills_test.rb`
 - `floor_test.rb`
 - `milk_bottle_test.rb`
