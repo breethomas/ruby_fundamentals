@@ -40,7 +40,7 @@ These exercises focus on these two types of operations.
 - `money_test.rb` x
 - `children_test.rb` x
 - `catalogue_test.rb` x
-- `wallet_test.rb`
+- `wallet_test.rb` x
 
 ## Go make up more
 
