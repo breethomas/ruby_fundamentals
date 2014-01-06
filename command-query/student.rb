@@ -10,7 +10,7 @@ class Student
   end
 
   def study
-    new_index = index - 1 
+    new_index = index - 1  
     if new_index < 0
       new_index = 0
     end
@@ -22,7 +22,7 @@ class Student
     if new_index > 4
       new_index = 4
     end
-    @grade = grades.at(new_index)
+    @grade = grades.at(new_index) 
   end
 
   def grades
